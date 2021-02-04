@@ -1,5 +1,11 @@
 # sample-video-call-app
 
+Ini adalah contoh video call app yang menggunakan ofon CloudPBX.
+
+Library js yang digunakan adalah:
+
+- [sip.js](https://sipjs.com)
+
 ## Install Dependencies
 
 ```
